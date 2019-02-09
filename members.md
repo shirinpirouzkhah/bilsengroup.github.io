@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Group Members
-image: /img/hello_world.jpeg
+image: /img/logo.png
 ---
 
 ## Faculty Members
