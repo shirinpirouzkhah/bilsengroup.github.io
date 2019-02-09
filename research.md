@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Research Interests
+title: Research Areas
 image: /img/logo.png
 ---
 
