@@ -1,4 +1,8 @@
-#
+---
+layout: minimal
+title: Group Members
+image: /img/hello_world.jpeg
+---
 
 ## Faculty Members
 
