@@ -8,8 +8,6 @@ image: /img/logo.png
 
 - [Eray Tüzün, PhD](http://www.eraytuzun.com/)
 
-Department of Computer Engineering, Bilkent University
-
 ## Student Members
 
 - Emre Doğan, MSc
