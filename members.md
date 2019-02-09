@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: post
 title: Group Members
 image: /img/hello_world.jpeg
 ---
