@@ -1,11 +1,12 @@
+#
 
-
-# Faculty Members
+## Faculty Members
 
 - [Eray Tüzün, PhD](http://www.eraytuzun.com/)
+
 Department of Computer Engineering, Bilkent University
 
-# Student Members
+## Student Members
 
 - Emre Doğan, MSc
 - Hamdi Alperen Çetin, MSc
