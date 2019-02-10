@@ -1,4 +1,4 @@
-If you are intested in joining our group, please send an email or drop by.
+If you are intested in joining our group as a graduate or undergraduate student, please send an email or drop by.
 
 Dr. Eray Tüzün
 Bilkent University
