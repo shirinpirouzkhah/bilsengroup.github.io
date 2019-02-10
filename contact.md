@@ -1,6 +1,8 @@
+If you are intested in joining our group, please send an email or drop by.
+
 Dr. Eray Tüzün
 Bilkent University
-Department of Computer Engineering
+Department of Computer Engineering, EA-524
 Bilkent, 06800, ANKARA, Turkey
 
 Phone: +90-312-2903398 
