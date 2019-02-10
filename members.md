@@ -17,6 +17,7 @@ image: /img/logo.png
 - Emre Doğan, MSc
 - Hamdi Alperen Çetin, MSc
 - Barış Ardıç, MSc
+- Utku Ünal, MSc (METU)
 
 ## Undergraduate Research Volunteers
 
