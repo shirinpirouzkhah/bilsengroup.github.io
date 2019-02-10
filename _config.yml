@@ -15,6 +15,7 @@ baseurl: ""
 
 # Name of website
 title: BilSen
+subtitle: 
 
 # Short description of your site
 description: A virtual proof that name is awesome!
@@ -62,8 +63,8 @@ footer-link-col: "#404040"
 
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
-# author:
-#   name: Bilkent University Department of Computer Engineering
+author:
+  name: Bilkent University Department of Computer Engineering
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
