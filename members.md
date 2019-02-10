@@ -18,7 +18,7 @@ image: /img/logo.png
 - Hamdi Alperen Çetin, MSc
 - Barış Ardıç, MSc
 
-## Undergraduate Research Students
+## Undergraduate Research Volunteers
 
 - Emre Sülün
 - Ayberk Tecimer
