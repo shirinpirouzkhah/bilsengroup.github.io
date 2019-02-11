@@ -7,12 +7,11 @@ image: /img/logo.png
 
 <div style="text-align: justify">
 Suggesting Reviewers Using Software Artifact Traceability Graphs  
-_Emre Sülün, Eray Tüzün, Uğur Doğrusöz_  
+<i>Emre Sülün, Eray Tüzün, Uğur Doğrusöz</i>  
 16th International Conference on Mining Software Repositories, 2019 (Under review)
 </div>
 
-<br>
-<br>
+<br><br>
 
 <div style="text-align: justify">
 <a href="https://www.researchgate.net/publication/330222041_Catching_up_with_Method_and_Process_Practice_An_Industry-Informed_Baseline_for_Researchers">Catching up with Method and Process Practice: A new Baseline for Researchers   </a>
