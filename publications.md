@@ -93,10 +93,13 @@ Aligning software engineering education with industrial needs: a meta-analysis
 </div>
 </li>
 <br>
-
-- [Are Computer Science and Engineering Graduates Ready for the Software Industry? Experiences from an Industrial Student Training Program](https://arxiv.org/abs/1805.08894)  
-Eray Tuzun, Hakan Erdogmus and Izzet Gokhan Ozbilgin  
-_International Conference in Software Engineering SEET 2018 (Acceptance rate <25%)_
+<li>
+<div style="text-align: justify">
+<a href="https://arxiv.org/abs/1805.08894">Are Computer Science and Engineering Graduates Ready for the Software Industry? Experiences from an Industrial Student Training Program </a>
+<br><i>Eray Tuzun, Hakan Erdogmus and Izzet Gokhan Ozbilgin</i> 
+<br>International Conference in Software Engineering SEET 2018 (Acceptance rate <25%)
+</div>
+</li>
 
 </ul>
 
