@@ -3,12 +3,14 @@ layout: post
 title: Publications
 image: /img/logo.png
 ---
+
+
 <div style="text-align: justify">
-
-
 Suggesting Reviewers Using Software Artifact Traceability Graphs  
 _Emre Sülün, Eray Tüzün, Uğur Doğrusöz_  
 16th International Conference on Mining Software Repositories, 2019 (Under review)
+</div>
+
 
 [Catching up with Method and Process Practice: A new Baseline for Researchers](https://www.researchgate.net/publication/330222041_Catching_up_with_Method_and_Process_Practice_An_Industry-Informed_Baseline_for_Researchers)  
 HELENA Consurtium. International Conference on Software Engineering in Practice, 2019 (Accepted) 
@@ -38,5 +40,3 @@ _International Journal of Informatics Technologies, 2018_
 - [Are Computer Science and Engineering Graduates Ready for the Software Industry? Experiences from an Industrial Student Training Program](https://arxiv.org/abs/1805.08894)  
 Eray Tuzun, Hakan Erdogmus and Izzet Gokhan Ozbilgin  
 _International Conference in Software Engineering SEET 2018 (Acceptance rate <25%)_
-
-</div>
