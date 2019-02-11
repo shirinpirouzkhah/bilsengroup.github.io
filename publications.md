@@ -37,7 +37,14 @@ Understanding the skill gaps of software engineers
 </div>
 </li>
 <br>
-An Auction-Based Serious Game for Bug Tracking. Cagdas Usfekes, Eray Tuzun, Murat Yılmaz, Yagup Macit, Paul Clarke. IET Software, 2018 (Under Review)
+<li>
+<div style="text-align: justify">
+An Auction-Based Serious Game for Bug Tracking
+<br><i>Cagdas Usfekes, Eray Tuzun, Murat Yılmaz, Yagup Macit, Paul Clarke</i> 
+<br>IET Software, 2018 (Under Review)
+</div>
+</li>
+
 
 Closing the gap between software engineering education and industrial needs. Vahid Garousi, Görkem Giray, Eray Tüzün, Cagatay Catal, Michael Felderer. IEEE Software (Accepted)
 
