@@ -14,11 +14,11 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: bilsen research group
+title: BILSEN
 subtitle:
 
 # Short description of your site
-description: BILSEN Software Engineering Research Group
+description: Bilkent University Software Engineering Research Group
 
 # --- Navigation bar options --- #
 
