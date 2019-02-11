@@ -15,7 +15,8 @@ Suggesting Reviewers Using Software Artifact Traceability Graphs
 
 <div style="text-align: justify">
 <a href="https://www.researchgate.net/publication/330222041_Catching_up_with_Method_and_Process_Practice_An_Industry-Informed_Baseline_for_Researchers">Catching up with Method and Process Practice: A new Baseline for Researchers   </a>
-<br>HELENA Consurtium. International Conference on Software Engineering in Practice, 2019 (Accepted)  
+<br><i>HELENA Consurtium</i> 
+<br>International Conference on Software Engineering in Practice, 2019 (Accepted)  
 </div>
 
 Understanding the skill gaps of software engineers. Vahid Garousi, Görkem Giray, Eray Tüzün, Cagatay Catal. ACM Transactions on Computing Education (Under review)
