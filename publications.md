@@ -20,7 +20,7 @@ Suggesting Reviewers Using Software Artifact Traceability Graphs
 <br>International Conference on Software Engineering in Practice, 2019 (Accepted)  
 </div>
 </li>
-
+<br>
 <li>
 <div style="text-align: justify">
 Understanding the skill gaps of software engineers
@@ -28,13 +28,15 @@ Understanding the skill gaps of software engineers
 <br>ACM Transactions on Computing Education (Under review)
 </div>
 </li>
-
-
-
-[Adopting Integrated Application Lifecycle Management within a Large-Scale Software Company: An Action Research Approach](https://www.sciencedirect.com/science/article/pii/S0164121218302565)  
-_Eray Tuzun, Bedir Tekinerdogan, Yagup Macit, Kursat Ince_  
-Journal of Systems and Software, 2018 (In Press)
-
+<br>
+<li>
+<div style="text-align: justify">
+<a href="https://www.sciencedirect.com/science/article/pii/S0164121218302565">Adopting Integrated Application Lifecycle Management within a Large-Scale Software Company: An Action Research Approach </a>
+<br><i>Eray Tuzun, Bedir Tekinerdogan, Yagup Macit, Kursat Ince</i> 
+<br>Journal of Systems and Software, 2018 (In Press)
+</div>
+</li>
+<br>
 An Auction-Based Serious Game for Bug Tracking. Cagdas Usfekes, Eray Tuzun, Murat Yılmaz, Yagup Macit, Paul Clarke. IET Software, 2018 (Under Review)
 
 Closing the gap between software engineering education and industrial needs. Vahid Garousi, Görkem Giray, Eray Tüzün, Cagatay Catal, Michael Felderer. IEEE Software (Accepted)
