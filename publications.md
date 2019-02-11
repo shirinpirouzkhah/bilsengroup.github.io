@@ -13,13 +13,23 @@ Suggesting Reviewers Using Software Artifact Traceability Graphs
 </div>
 </li>
 
+<li>
 <div style="text-align: justify">
 <a href="https://www.researchgate.net/publication/330222041_Catching_up_with_Method_and_Process_Practice_An_Industry-Informed_Baseline_for_Researchers">Catching up with Method and Process Practice: A new Baseline for Researchers   </a>
 <br><i>HELENA Consurtium</i> 
 <br>International Conference on Software Engineering in Practice, 2019 (Accepted)  
 </div>
+</li>
 
-Understanding the skill gaps of software engineers. Vahid Garousi, Görkem Giray, Eray Tüzün, Cagatay Catal. ACM Transactions on Computing Education (Under review)
+<li>
+<div style="text-align: justify">
+Understanding the skill gaps of software engineers
+<br><i>Vahid Garousi, Görkem Giray, Eray Tüzün, Cagatay Catal</i> 
+<br>ACM Transactions on Computing Education (Under review)
+</div>
+</li>
+
+
 
 [Adopting Integrated Application Lifecycle Management within a Large-Scale Software Company: An Action Research Approach](https://www.sciencedirect.com/science/article/pii/S0164121218302565)  
 _Eray Tuzun, Bedir Tekinerdogan, Yagup Macit, Kursat Ince_  
