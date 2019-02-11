@@ -44,7 +44,14 @@ An Auction-Based Serious Game for Bug Tracking
 <br>IET Software, 2018 (Under Review)
 </div>
 </li>
-
+<br>
+<li>
+<div style="text-align: justify">
+<a href="https://arxiv.org/abs/1812.01954">Closing the gap between software engineering education and industrial needs </a>
+<br><i>Vahid Garousi, Görkem Giray, Eray Tüzün, Cagatay Catal, Michael Felderer</i> 
+<br>IEEE Software (Accepted)
+</div>
+</li>
 
 Closing the gap between software engineering education and industrial needs. Vahid Garousi, Görkem Giray, Eray Tüzün, Cagatay Catal, Michael Felderer. IEEE Software (Accepted)
 
