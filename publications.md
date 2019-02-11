@@ -5,7 +5,9 @@ image: /img/logo.png
 ---
 
 
-Suggesting Reviewers Using Software Artifact Traceability Graphs, Emre Sülün, Eray Tüzün, Uğur Doğrusöz, 16th International Conference on Mining Software Repositories, 2019 (Under review)
+Suggesting Reviewers Using Software Artifact Traceability Graphs  
+_Emre Sülün, Eray Tüzün, Uğur Doğrusöz_  
+16th International Conference on Mining Software Repositories, 2019 (Under review)
 
 Catching up with Method and Process Practice: A new Baseline for Researchers. HELENA Consurtium. International Conference on Software Engineering in Practice, 2019 (Accepted) 
 
