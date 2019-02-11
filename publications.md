@@ -52,12 +52,31 @@ An Auction-Based Serious Game for Bug Tracking
 <br>IEEE Software (Accepted)
 </div>
 </li>
+<li>
+<div style="text-align: justify">
+Aligning software engineering education with industrial needs: a meta-analysis
+<br><i>Vahid Garousi, Görkem Giray, Eray Tüzün, Cagatay Catal, Michael Felderer</i> 
+<br>Journal of Systems and Software (Under review)
+</div>
+</li>
+<br>
+<li>
+<div style="text-align: justify">
+<a href="https://link.springer.com/chapter/10.1007/978-3-319-97925-0_16">Adopting Augmented Reality for the Purpose of Software Development Process Training and Improvement: An Exploration </a>
+<br><i>İpek Ohri, İrem Öge, Bora Orkun, Murat Yılmaz, Eray Tüzün, Paul Clarke, RV O’Connor</i> 
+<br>European Conference on Software Process Improvement, 195-206
+</div>
+</li>
+<br>
+<li>
+<div style="text-align: justify">
+<a href="https://https://www.researchgate.net/publication/320596390_IoT_System_Development_Methods">IoT System Development Methods </a>
+<br><i>Görkem Giray, Bedir Tekinerdogan, Eray Tüzün</i> 
+<br>Internet of Things: Challenges, Advances and Applications, CRC Press, 2018 (Book Chapter)
+</div>
+</li>
 
-Closing the gap between software engineering education and industrial needs. Vahid Garousi, Görkem Giray, Eray Tüzün, Cagatay Catal, Michael Felderer. IEEE Software (Accepted)
 
-Aligning software engineering education with industrial needs: a meta-analysis. Vahid Garousi, Görkem Giray, Eray Tüzün, Cagatay Catal, Michael Felderer. Journal of Systems and Software (Under review)
-
-Adopting Augmented Reality for the Purpose of Software Development Process Training and Improvement: An Exploration. İpek Ohri, İrem Öge, Bora Orkun, Murat Yılmaz, Eray Tüzün, Paul Clarke, RV O’Connor. European Conference on Software Process Improvement, 195-206
 
 IoT System Development Methods. Görkem Giray, Bedir Tekinerdogan, Eray Tüzün. Internet of Things: Challenges, Advances and Applications, CRC Press, 2018 (Book Chapter)
 
