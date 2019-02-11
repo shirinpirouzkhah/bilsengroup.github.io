@@ -71,7 +71,7 @@ Aligning software engineering education with industrial needs: a meta-analysis
 <br>
 <li>
 <div style="text-align: justify">
-<a href="https://https://www.researchgate.net/publication/320596390_IoT_System_Development_Methods">IoT System Development Methods </a>
+<a href="https://www.researchgate.net/publication/320596390_IoT_System_Development_Methods">IoT System Development Methods </a>
 <br><i>Görkem Giray, Bedir Tekinerdogan, Eray Tüzün</i> 
 <br>Internet of Things: Challenges, Advances and Applications, CRC Press, 2018 (Book Chapter)
 </div>
