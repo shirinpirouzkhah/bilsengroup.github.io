@@ -85,10 +85,14 @@ Aligning software engineering education with industrial needs: a meta-analysis
 </div>
 </li>
 <br>
-
-- [Modeling Software Product Line Engineering with Essence Framework](https://www.researchgate.net/publication/322697487_Modeling_Software_Product_Line_Engineering_with_Essence_Framework)  
-Eray Tüzün, Görkem Giray, Bedir Tekinerdogan, Yagup Macit.  
-_International Journal of Informatics Technologies, 2018_
+<li>
+<div style="text-align: justify">
+<a href="https://www.researchgate.net/publication/322697487_Modeling_Software_Product_Line_Engineering_with_Essence_Framework">Modeling Software Product Line Engineering with Essence Framework </a>
+<br><i>Eray Tüzün, Görkem Giray, Bedir Tekinerdogan, Yagup Macit</i> 
+<br>International Journal of Informatics Technologies, 2018
+</div>
+</li>
+<br>
 
 - [Are Computer Science and Engineering Graduates Ready for the Software Industry? Experiences from an Industrial Student Training Program](https://arxiv.org/abs/1805.08894)  
 Eray Tuzun, Hakan Erdogmus and Izzet Gokhan Ozbilgin  
