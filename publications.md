@@ -52,6 +52,7 @@ An Auction-Based Serious Game for Bug Tracking
 <br>IEEE Software (Accepted)
 </div>
 </li>
+<br>
 <li>
 <div style="text-align: justify">
 Aligning software engineering education with industrial needs: a meta-analysis
@@ -75,12 +76,15 @@ Aligning software engineering education with industrial needs: a meta-analysis
 <br>Internet of Things: Challenges, Advances and Applications, CRC Press, 2018 (Book Chapter)
 </div>
 </li>
-
-
-
-IoT System Development Methods. Görkem Giray, Bedir Tekinerdogan, Eray Tüzün. Internet of Things: Challenges, Advances and Applications, CRC Press, 2018 (Book Chapter)
-
-- Adopting the Essence Framework to Derive a Practice Library for the Development of IoT Systems. Görkem Giray, Bedir Tekinerdogan, Eray Tüzün. Connected Environments for the Internet of Things, Challenges and Solutions, Springer International Publishing, 2018 (Book Chapter)
+<br>
+<li>
+<div style="text-align: justify">
+<a href="https://www.researchgate.net/publication/322272564_Adopting_the_Essence_Framework_to_Derive_a_Practice_Library_for_the_Development_of_IoT_Systems">Adopting the Essence Framework to Derive a Practice Library for the Development of IoT Systems </a>
+<br><i>Görkem Giray, Bedir Tekinerdogan, Eray Tüzün</i> 
+<br>Connected Environments for the Internet of Things, Challenges and Solutions, Springer International Publishing, 2018 (Book Chapter)
+</div>
+</li>
+<br>
 
 - [Modeling Software Product Line Engineering with Essence Framework](https://www.researchgate.net/publication/322697487_Modeling_Software_Product_Line_Engineering_with_Essence_Framework)  
 Eray Tüzün, Görkem Giray, Bedir Tekinerdogan, Yagup Macit.  
