@@ -1,4 +1,5 @@
-If you are intested in joining our group as a graduate or undergraduate student, please send an email or drop by. Summer interns are also welcome.
+- If you are intested in joining our group as a graduate or undergraduate student, please send an email or drop by. 
+- Summer interns are also welcome.
 
 Dr. Eray Tüzün  
 Bilkent University  
