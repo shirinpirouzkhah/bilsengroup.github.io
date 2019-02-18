@@ -5,13 +5,7 @@ image: /img/logo.png
 ---
 <ul>
 
-<li>
-<div style="text-align: justify">
-Suggesting Reviewers Using Software Artifact Traceability Graphs  
-<br><i>Emre Sülün, Eray Tüzün, Uğur Doğrusöz</i>  
-<br>16th International Conference on Mining Software Repositories, 2019 (Under review)
-</div>
-</li>
+
 <br>
 <li>
 <div style="text-align: justify">
