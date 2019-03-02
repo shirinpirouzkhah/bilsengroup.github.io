@@ -4,8 +4,15 @@ title: Events & News
 image: /img/logo.png
 ---
 
-- Our submission titled “Towards Unified Software Project Monitoring for Organizations using Hybrid Processes and Tools” (Eray Tüzün, Çağdaş Üsfekes, Yagup Macit, Görkem Giray) is accepted to ICSSP (International Conference on Software and Systems Process) 2019 which will be held at Montreal, Canada on May 25-26, 2019.
+- Our submission titled “Towards Unified Software Project Monitoring for Organizations using Hybrid Processes and Tools” (Eray Tüzün, Çağdaş Üsfekes, Yagup Macit, Görkem Giray) is accepted to ICSSP (International Conference on Software and Systems Process) 2019 which will be held at Montreal, Canada. (May 25-26, 2019)
 
-- Our submission titled “Catching up with Method and Process Practice: An Industry-Informed Baseline for Researchers” (HELENA consortium) is accepted to ICSE (International Conference on Software Engineering) 2019 Practice track which will be held at Montreal, Canada on May 29-31, 2019.
+- Our submission titled “Catching up with Method and Process Practice: An Industry-Informed Baseline for Researchers” (HELENA consortium) is accepted to ICSE (International Conference on Software Engineering) 2019 Practice track which will be held at Montreal, Canada. (May 29-31, 2019)
 
 - Do you love coding competitions? We are organizing a Hub in B Building, so people from Bilkent University can enjoy this Google event.#HashCode2019 #GoogleHashCode. So far, we have 120 contestants signed up for the event.  The event will take place at B Building, 3rd floor on Feb 28, 2019 20:30. For more information about Google hashcode, please checkout [the link.](https://codingcompetitions.withgoogle.com/hashcode/) 
+
+- Our manuscript titled “Adopting Integrated Application Lifecycle Management within a Large-Scale Software Company: An Action Research Approach" (Eray Tuzun, Bedir Tekinerdogan, Yagup Macit, Kursat Ince) is accepted to Journal of Systems and Software, 2019 (In Press)
+
+- Our manuscript titled "Closing the gap between software engineering education and industrial needs" (Vahid Garousi, Görkem Giray, Eray Tüzün, Cagatay Catal, Michael Felderer) will be published on IEEE Software, 2019.
+
+- Our submission titled “Are Computer Science and Engineering Graduates Ready for the Software Industry? Experiences from an Industrial Student Training Program" ( Eray Tuzun, Hakan Erdogmus and Izzet Gokhan Ozbilgin) is accepted to International Conference in Software Engineering SEET 2018 
+
