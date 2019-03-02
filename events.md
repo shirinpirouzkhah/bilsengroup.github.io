@@ -14,5 +14,4 @@ image: /img/logo.png
 
 - Our manuscript titled "Closing the gap between software engineering education and industrial needs" (Vahid Garousi, Görkem Giray, Eray Tüzün, Cagatay Catal, Michael Felderer) will be published on IEEE Software, 2019.
 
-- Our submission titled “Are Computer Science and Engineering Graduates Ready for the Software Industry? Experiences from an Industrial Student Training Program" ( Eray Tuzun, Hakan Erdogmus and Izzet Gokhan Ozbilgin) is accepted to International Conference in Software Engineering SEET 2018 
-
+- Our submission titled “Are Computer Science and Engineering Graduates Ready for the Software Industry? Experiences from an Industrial Student Training Program" ( Eray Tuzun, Hakan Erdogmus and Izzet Gokhan Ozbilgin) is accepted to International Conference in Software Engineering SEET 2018 which will be held at Gothenburg, Sweden. (May 31 - Jun 1, 2018)
