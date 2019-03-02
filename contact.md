@@ -1,4 +1,4 @@
-- If you are intested in joining our group as a graduate or undergraduate volunteer student, please send an email or drop by. 
+- If you are intested in joining our group as a graduate (Masters and Ph.D.)  or undergraduate volunteer student, please send an email or drop by. 
 - Summer interns are also welcome.
 
 	Dr. Eray Tüzün  
