@@ -14,14 +14,7 @@ image: /img/logo.png
 <br>International Conference on Software Engineering in Practice, 2019 (Accepted)  
 </div>
 </li>
-<br>
-<li>
-<div style="text-align: justify">
-Understanding the skill gaps of software engineers
-<br><i>Vahid Garousi, Görkem Giray, Eray Tüzün, Cagatay Catal</i> 
-<br>ACM Transactions on Computing Education (Under review)
-</div>
-</li>
+
 <br>
 <li>
 <div style="text-align: justify">
