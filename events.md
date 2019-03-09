@@ -3,7 +3,7 @@ layout: post
 title: Events & News
 image: /img/logo.png
 ---
-- <div style="text-align: justify">Our submission titled “Towards Unified Software Project Monitoring for Organizations using Hybrid Processes and Tools” (Eray Tüzün, Çağdaş Üsfekes, Yagup Macit, Görkem Giray) is accepted to ICSSP (International Conference on Software and Systems Process) 2019 which will be held at Montreal, Canada. (May 25-26, 2019) </div>  
+- <div style="text-align: justify">Our submission titled “Towards Unified Software Project Monitoring for Organizations using Hybrid Processes and Tools” (Eray Tüzün, Çağdaş Üsfekes, Yagup Macit, Görkem Giray) is accepted to ICSSP (International Conference on Software and Systems Process) 2019 which will be held at Montreal, Canada. (May 25-26, 2019) </div>                                                                        
 
 - <div style="text-align: justify">Our submission titled “Catching up with Method and Process Practice: An Industry-Informed Baseline for Researchers” (HELENA consortium) is accepted to ICSE (International Conference on Software Engineering) 2019 Practice track which will be held at Montreal, Canada. (May 29-31, 2019) </div>  
 
