@@ -28,7 +28,7 @@ image: /img/logo.png
 <div style="text-align: justify">
 An Auction-Based Serious Game for Bug Tracking
 <br><i>Cagdas Usfekes, Eray Tuzun, Murat Yılmaz, Yagup Macit, Paul Clarke</i>
-<br>IET Software, 2018 (Under Review)
+<br>IET Software, 2019 (Accepted)
 </div>
 </li>
 <br>
