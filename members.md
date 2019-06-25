@@ -4,10 +4,6 @@ title: Group Members
 image: /img/logo.png
 ---
 
-## Former Faculty Members
-
-- [Bedir Tekinerdoğan ](https://www.wur.nl/en/Persons/Bedir-prof.dr.ir.-B-Bedir-Tekinerdogan.htm)
-
 ## Faculty Members
 
 - [Eray Tüzün](http://www.eraytuzun.com/)
@@ -25,3 +21,7 @@ image: /img/logo.png
 - Ayberk Tecimer
 - Doren Calliku
 - İrem Yurdakul
+
+## Former Faculty Members
+
+- [Bedir Tekinerdoğan ](https://www.wur.nl/en/Persons/Bedir-prof.dr.ir.-B-Bedir-Tekinerdogan.htm)
