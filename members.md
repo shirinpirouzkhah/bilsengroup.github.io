@@ -23,3 +23,5 @@ image: /img/logo.png
 
 - Emre Sülün
 - Ayberk Tecimer
+- Doren Calliku
+- İrem Yurdakul
