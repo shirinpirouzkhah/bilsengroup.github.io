@@ -19,7 +19,7 @@ image: /img/logo.png
 <div style="text-align: justify">
 <a href="https://www.researchgate.net/publication/330222041_Catching_up_with_Method_and_Process_Practice_An_Industry-Informed_Baseline_for_Researchers">Catching up with Method and Process Practice: A new Baseline for Researchers   </a>
 <br><i>HELENA Consurtium</i>
-<br>International Conference on Software Engineering in Practice, 2019 (Accepted)  
+<br>International Conference on Software Engineering in Practice, 2019  
 </div>
 </li>
 
@@ -36,7 +36,7 @@ image: /img/logo.png
 <div style="text-align: justify">
 An Auction-Based Serious Game for Bug Tracking
 <br><i>Cagdas Usfekes, Eray Tuzun, Murat Yılmaz, Yagup Macit, Paul Clarke</i>
-<br>IET Software, 2019 (Accepted)
+<br>IET Software, 2019
 </div>
 </li>
 <br>
