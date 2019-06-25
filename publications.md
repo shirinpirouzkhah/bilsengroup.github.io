@@ -9,6 +9,14 @@ image: /img/logo.png
 <br>
 <li>
 <div style="text-align: justify">
+<a href="https://www.sciencedirect.com/science/article/pii/S0164121219301347?dgcid=author">Aligning software engineering education with industrial needs: a meta-analysis </a>
+<br><i>Vahid Garousi, Görkem Giray, Eray Tüzün, Cagatay Catal, Michael Felderer</i>
+<br>Journal of Systems and Software,2019
+</div>
+</li>
+<br>
+<li>
+<div style="text-align: justify">
 <a href="https://www.researchgate.net/publication/330222041_Catching_up_with_Method_and_Process_Practice_An_Industry-Informed_Baseline_for_Researchers">Catching up with Method and Process Practice: A new Baseline for Researchers   </a>
 <br><i>HELENA Consurtium</i>
 <br>International Conference on Software Engineering in Practice, 2019 (Accepted)  
@@ -37,14 +45,6 @@ An Auction-Based Serious Game for Bug Tracking
 <a href="https://arxiv.org/abs/1812.01954">Closing the gap between software engineering education and industrial needs </a>
 <br><i>Vahid Garousi, Görkem Giray, Eray Tüzün, Cagatay Catal, Michael Felderer</i>
 <br>IEEE Software (Accepted)
-</div>
-</li>
-<br>
-<li>
-<div style="text-align: justify">
-Aligning software engineering education with industrial needs: a meta-analysis
-<br><i>Vahid Garousi, Görkem Giray, Eray Tüzün, Cagatay Catal, Michael Felderer</i>
-<br>Journal of Systems and Software (Under review)
 </div>
 </li>
 <br>
