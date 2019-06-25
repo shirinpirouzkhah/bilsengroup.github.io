@@ -44,7 +44,7 @@ An Auction-Based Serious Game for Bug Tracking
 <div style="text-align: justify">
 <a href="https://arxiv.org/abs/1812.01954">Closing the gap between software engineering education and industrial needs </a>
 <br><i>Vahid Garousi, Görkem Giray, Eray Tüzün, Cagatay Catal, Michael Felderer</i>
-<br>IEEE Software (Accepted)
+<br>IEEE Software
 </div>
 </li>
 <br>
