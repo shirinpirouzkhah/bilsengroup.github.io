@@ -9,6 +9,14 @@ image: /img/logo.png
 <br>
 <li>
 <div style="text-align: justify">
+<br> Two of our ACM Student Research competition papers got accepted to <a href="https://esec-fse19.ut.ee/">ESEC/FSE 2019 Conference </a> :
+<br><i>Hamdi Alperen Çetin: Identifying the Most Valuable Developers Using Artifact Traceability Graphs</i>
+<br><i>Emre Sülün: Suggesting Reviewers of Software Artifacts Using Traceability Graphs</i>
+</div>
+</li>
+<br>
+<li>
+<div style="text-align: justify">
 <a href="https://www.sciencedirect.com/science/article/pii/S0164121219301347?dgcid=author">Aligning software engineering education with industrial needs: a meta-analysis </a>
 <br><i>Vahid Garousi, Görkem Giray, Eray Tüzün, Cagatay Catal, Michael Felderer</i>
 <br>Journal of Systems and Software,2019
