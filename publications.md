@@ -10,14 +10,17 @@ image: /img/logo.png
 <div style="text-align: justify">
 Identifying the Most Valuable Developers Using Artifact Traceability Graphs
 <br><i>H. Alperen Cetin</i>
-In Proceedings of The 27th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2019)
-</li>  
+<br>In Proceedings of The 27th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2019)
+</div>
+</li>
 <br>
+
 <li>
 <div style="text-align: justify">
 Suggesting Reviewers of Software Artifacts Using Traceability Graphs
 <br><i>Emre Sülün</i>
 <br>In Proceedings of The 27th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2019)
+</div>
 </li>
 <br>
 <li>
