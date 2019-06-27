@@ -26,7 +26,7 @@ image: /img/logo.png
 - <div style="text-align: justify">Do you love coding competitions? We are organizing a Hub in B Building, so people
     from Bilkent University can enjoy this Google event.#HashCode2019 #GoogleHashCode. So far, we have 120 contestants
     signed up for the event. The event will take place at B Building, 3rd floor on Feb 28, 2019 20:30. For more
-    information about Google hashcode, please checkout [the link.](https://codingcompetitions.withgoogle.com/hashcode/)
+    information about Google hashcode, please checkout <a href="https://codingcompetitions.withgoogle.com/hashcode/">the link. </a>
 </div><br>
 - <div style="text-align: justify">Our manuscript titled “Adopting Integrated Application Lifecycle Management within a
     Large-Scale Software Company: An Action Research Approach" (Eray Tuzun, Bedir Tekinerdogan, Yagup Macit, Kursat
