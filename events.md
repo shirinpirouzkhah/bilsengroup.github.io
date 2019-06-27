@@ -9,8 +9,7 @@ image: /img/logo.png
     <ul>
         <li>Hamdi Alperen Çetin: <i>Identifying the Most Valuable Developers Using Artifact Traceability Graphs</i></li>
         <li>Emre Sülün: <i>Suggesting Reviewers of Software Artifacts Using Traceability Graphs</i></li>
-    </ul>
-</div>
+    </ul> </div>
 
 <br>
 
@@ -27,7 +26,7 @@ image: /img/logo.png
     from Bilkent University can enjoy this Google event.#HashCode2019 #GoogleHashCode. So far, we have 120 contestants
     signed up for the event. The event will take place at B Building, 3rd floor on Feb 28, 2019 20:30. For more
     information about Google hashcode, please checkout <a href="https://codingcompetitions.withgoogle.com/hashcode/">the link. </a>
-</div><br>
+    </div><br>
 - <div style="text-align: justify">Our manuscript titled “Adopting Integrated Application Lifecycle Management within a
     Large-Scale Software Company: An Action Research Approach" (Eray Tuzun, Bedir Tekinerdogan, Yagup Macit, Kursat
     Ince) is accepted to Journal of Systems and Software, 2019 (In Press) </div><br>
