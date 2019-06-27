@@ -3,6 +3,13 @@ layout: post
 title: Events & News
 image: /img/logo.png
 ---
+
+<div style="text-align: justify">
+Two of our ACM Student Research competition papers got accepted to <a href="https://esec-fse19.ut.ee/">ESEC/FSE 2019 Conference </a> :
+<br> - Hamdi Alperen Çetin: <i>Identifying the Most Valuable Developers Using Artifact Traceability Graphs</i>
+<br> - Emre Sülün: <i>Suggesting Reviewers of Software Artifacts Using Traceability Graphs</i>
+</div>
+
 - <div style="text-align: justify">Our manuscript titled “An Auction-Based Serious Game for Bug Tracking" (Çağdaş Üsfekes, Eray Tüzün, Murat Yılmaz, Yagup Macit, Paul Clarke) is accepted to IET Software, 2019 </div><br>
 - <div style="text-align: justify">Our submission titled “Towards Unified Software Project Monitoring for Organizations using Hybrid Processes and Tools” (Eray Tüzün, Çağdaş Üsfekes, Yagup Macit, Görkem Giray) is accepted to ICSSP (International Conference on Software and Systems Process) 2019 which will be held at Montreal, Canada. (May 25-26, 2019) </div><br>
 - <div style="text-align: justify">Our submission titled “Catching up with Method and Process Practice: An Industry-Informed Baseline for Researchers” (HELENA consortium) is accepted to ICSE (International Conference on Software Engineering) 2019 Practice track which will be held at Montreal, Canada. (May 29-31, 2019) </div><br>
