@@ -10,7 +10,6 @@ image: /img/logo.png
     <li>Emre Sülün: <i>Suggesting Reviewers of Software Artifacts Using Traceability Graphs</i></li>
   </ul>
 
-</div>
 
 - <div style="text-align: justify">Our manuscript titled “An Auction-Based Serious Game for Bug Tracking" (Çağdaş Üsfekes, Eray Tüzün, Murat Yılmaz, Yagup Macit, Paul Clarke) is accepted to IET Software, 2019 </div><br>
 - <div style="text-align: justify">Our submission titled “Towards Unified Software Project Monitoring for Organizations using Hybrid Processes and Tools” (Eray Tüzün, Çağdaş Üsfekes, Yagup Macit, Görkem Giray) is accepted to ICSSP (International Conference on Software and Systems Process) 2019 which will be held at Montreal, Canada. (May 25-26, 2019) </div><br>
