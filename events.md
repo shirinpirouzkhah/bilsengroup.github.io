@@ -10,7 +10,9 @@ image: /img/logo.png
         <li>Hamdi Alperen Çetin: <i>Identifying the Most Valuable Developers Using Artifact Traceability Graphs</i></li>
         <li>Emre Sülün: <i>Suggesting Reviewers of Software Artifacts Using Traceability Graphs</i></li>
     </ul>
-</div><br>
+</div>
+
+<br>
 
 - <div style="text-align: justify">Our manuscript titled “An Auction-Based Serious Game for Bug Tracking" (Çağdaş
     Üsfekes, Eray Tüzün, Murat Yılmaz, Yagup Macit, Paul Clarke) is accepted to IET Software, 2019 </div><br>
