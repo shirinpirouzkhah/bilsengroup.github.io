@@ -7,6 +7,25 @@ image: /img/logo.png
     <br>
     <li>
         <div style="text-align: justify">
+            Investigating the Validity of Ground Truth in Code Reviewer Recommendation Studies
+            <br><i>Emre Doğan,  Eray Tüzün,  K. Ayberk Tecimer  and  H. Altay Güvenir</i>
+            <br>2019 ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM)
+        </div>
+    </li>
+    <br>
+    <br>
+    <br>
+    <li>
+        <div style="text-align: justify">
+            Reviewer Recommendation Using Software Artifact Traceability Graphs
+            <br><i>Emre Sülün, Eray Tüzün, Uğur Doğrusöz</i>
+            <br>15th International Conference on Predictive Models and Data Analytics in Software Engineering - PROMISE '19, 2019
+        </div>
+    </li>
+    <br>
+    <br>
+    <li>
+        <div style="text-align: justify">
             Identifying the Most Valuable Developers Using Artifact Traceability Graphs
             <br><i>H. Alperen Cetin</i>
             <br>In Proceedings of The 27th ACM Joint European Software Engineering Conference and Symposium on the
