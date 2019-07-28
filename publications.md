@@ -13,8 +13,6 @@ image: /img/logo.png
         </div>
     </li>
     <br>
-    <br>
-    <br>
     <li>
         <div style="text-align: justify">
             Reviewer Recommendation Using Software Artifact Traceability Graphs
@@ -22,7 +20,6 @@ image: /img/logo.png
             <br>15th International Conference on Predictive Models and Data Analytics in Software Engineering - PROMISE '19, 2019
         </div>
     </li>
-    <br>
     <br>
     <li>
         <div style="text-align: justify">
@@ -33,7 +30,6 @@ image: /img/logo.png
         </div>
     </li>
     <br>
-
     <li>
         <div style="text-align: justify">
             Suggesting Reviewers of Software Artifacts Using Traceability Graphs
@@ -61,7 +57,6 @@ image: /img/logo.png
             <br>International Conference on Software Engineering in Practice, 2019
         </div>
     </li>
-
     <br>
     <li>
         <div style="text-align: justify">
