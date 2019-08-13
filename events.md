@@ -3,8 +3,9 @@ layout: post
 title: Events & News
 image: /img/logo.png
 ---
-- <div style="text-align: justify">Our submission titled “Investigating the Validity of Ground Truth in Code Reviewer Recommendation Studies" (Emre Doğan,Eray Tüzün, K. Ayberk Tecimer, H. Altay Güvenir) is accepted to 2019 ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM).</div><br>
-- <div style="text-align: justify">Our submission titled “Reviewer Recommendation using Software Artifact Traceability Graphs" (Emre Sülün, Eray Tüzün, Uğur Doğrusöz) is accepted to 15th International Conference on Predictive Models and Data Analytics in Software Engineering - PROMISE '19 </div><br>
+- <div style="text-align: justify">Our submission titled "Adopting Integrated Application Lifecycle Management within a Large-Scale Software Company: An Action Research Approach" is accepted to ESEM 2019 Journal First Track.</div><br>
+- <div style="text-align: justify">Our submission titled "Investigating the Validity of Ground Truth in Code Reviewer Recommendation Studies" (Emre Doğan,Eray Tüzün, K. Ayberk Tecimer, H. Altay Güvenir) is accepted to 2019 ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM).</div><br>
+- <div style="text-align: justify">Our submission titled "Reviewer Recommendation using Software Artifact Traceability Graphs" (Emre Sülün, Eray Tüzün, Uğur Doğrusöz) is accepted to 15th International Conference on Predictive Models and Data Analytics in Software Engineering - PROMISE '19 </div><br>
 - <div style="text-align: justify">Two of our ACM Student Research competition papers got accepted to <a
         href="https://esec-fse19.ut.ee/">ESEC/FSE 2019 Conference </a> :
     <ul>

@@ -7,7 +7,7 @@ image: /img/logo.png
     <br>
     <li>
         <div style="text-align: justify">
-            Investigating the Validity of Ground Truth in Code Reviewer Recommendation Studies
+            <a href="https://www.researchgate.net/publication/335078869_Investigating_the_Validity_of_Ground_Truth_in_Code_Reviewer_Recommendation_Studies">Investigating the Validity of Ground Truth in Code Reviewer Recommendation Studies </a>
             <br><i>Emre Doğan,  Eray Tüzün,  K. Ayberk Tecimer  and  H. Altay Güvenir</i>
             <br>2019 ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM)
         </div>
@@ -15,7 +15,7 @@ image: /img/logo.png
     <br>
     <li>
         <div style="text-align: justify">
-            Reviewer Recommendation Using Software Artifact Traceability Graphs
+            <a href="https://www.researchgate.net/publication/334599783_Reviewer_Recommendation_using_Software_Artifact_Traceability_Graphs">Reviewer Recommendation Using Software Artifact Traceability Graphs </a>
             <br><i>Emre Sülün, Eray Tüzün, Uğur Doğrusöz</i>
             <br>15th International Conference on Predictive Models and Data Analytics in Software Engineering - PROMISE '19, 2019
         </div>
