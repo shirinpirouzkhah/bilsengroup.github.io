@@ -23,7 +23,8 @@ image: /img/logo.png
     <br>
     <li>
         <div style="text-align: justify">
-            Identifying the Most Valuable Developers Using Artifact Traceability Graphs
+            <a href="https://dl.acm.org/citation.cfm?id=3342487">
+                Identifying the Most Valuable Developers Using Artifact Traceability Graphs</a>
             <br><i>H. Alperen Cetin</i>
             <br>In Proceedings of The 27th ACM Joint European Software Engineering Conference and Symposium on the
             Foundations of Software Engineering (ESEC/FSE 2019)
@@ -32,7 +33,8 @@ image: /img/logo.png
     <br>
     <li>
         <div style="text-align: justify">
-            Suggesting Reviewers of Software Artifacts Using Traceability Graphs
+            <a href="https://dl.acm.org/citation.cfm?id=3342507">
+                Suggesting Reviewers of Software Artifacts Using Traceability Graphs</a>
             <br><i>Emre Sülün</i>
             <br>In Proceedings of The 27th ACM Joint European Software Engineering Conference and Symposium on the
             Foundations of Software Engineering (ESEC/FSE 2019)
