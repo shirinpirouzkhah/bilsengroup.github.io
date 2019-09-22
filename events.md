@@ -5,7 +5,7 @@ image: /img/logo.png
 ---
 - <div style="text-align: justify">Our paper “Investigating the Validity of Ground Truth in Code Reviewer Recommendation Studies” got the Best Emerging Results and Vision Paper Award in the 13th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM 2019).</div>
 
-![](img/esem_award.jpeg =250x)
+<img src="./img/esem_award.jpeg" alt="Best Paper Award" width="350" class="center">
 
 - <div style="text-align: justify">Our submission titled "Adopting Integrated Application Lifecycle Management within a Large-Scale Software Company: An Action Research Approach" is accepted to ESEM 2019 Journal First Track.</div><br>
 - <div style="text-align: justify">Our submission titled "Investigating the Validity of Ground Truth in Code Reviewer Recommendation Studies" (Emre Doğan,Eray Tüzün, K. Ayberk Tecimer, H. Altay Güvenir) is accepted to 2019 ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM).</div><br>
