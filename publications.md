@@ -7,7 +7,7 @@ image: /img/logo.png
     <br>
     <li>
         <div style="text-align: justify">
-            <a href="https://www.researchgate.net/publication/335078869_Investigating_the_Validity_of_Ground_Truth_in_Code_Reviewer_Recommendation_Studies">Investigating the Validity of Ground Truth in Code Reviewer Recommendation Studies </a> Best Emerging Results and Vision Paper Award
+            <a href="https://www.researchgate.net/publication/335078869_Investigating_the_Validity_of_Ground_Truth_in_Code_Reviewer_Recommendation_Studies">Investigating the Validity of Ground Truth in Code Reviewer Recommendation Studies </a> (Best Emerging Results and Vision Paper Award)
             <br><i>Emre Doğan,  Eray Tüzün,  K. Ayberk Tecimer  and  H. Altay Güvenir</i>
             <br>13th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM 2019)
         </div>
