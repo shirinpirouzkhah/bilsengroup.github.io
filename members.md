@@ -14,6 +14,9 @@ image: /img/logo.png
 - Hamdi Alperen Çetin, MSc
 - Barış Ardıç, MSc
 - Utku Ünal, MSc (METU)
+- Shirin Pirouzkhah, MSc
+- Khushbakht Ali, MSc
+
 
 ## Undergraduate Research Volunteers
 
