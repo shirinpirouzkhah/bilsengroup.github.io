@@ -3,7 +3,7 @@ layout: post
 title: Events & News
 image: /img/logo.png
 ---
-- <div style="text-align: justify">Our paper “Investigating the Validity of Ground Truth in Code Reviewer Recommendation Studies” got the Best Emerging Results and Vision Paper Award in the 13th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM 2019). <br> <img src="img/esem_award.jpeg" alt="Best Paper Award" height="300"></div><br>
+- <div style="text-align: justify">Our paper “Investigating the Validity of Ground Truth in Code Reviewer Recommendation Studies” got the Best Emerging Results and Vision Paper Award in the 13th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM 2019). <br> <img src="img/esem_award.jpeg" alt="Best Paper Award" width="350" class="center"></div><br>
 - <div style="text-align: justify">Our submission titled "Adopting Integrated Application Lifecycle Management within a Large-Scale Software Company: An Action Research Approach" is accepted to ESEM 2019 Journal First Track.</div><br>
 - <div style="text-align: justify">Our submission titled "Investigating the Validity of Ground Truth in Code Reviewer Recommendation Studies" (Emre Doğan,Eray Tüzün, K. Ayberk Tecimer, H. Altay Güvenir) is accepted to 2019 ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM).</div><br>
 - <div style="text-align: justify">Our submission titled "Reviewer Recommendation using Software Artifact Traceability Graphs" (Emre Sülün, Eray Tüzün, Uğur Doğrusöz) is accepted to 15th International Conference on Predictive Models and Data Analytics in Software Engineering - PROMISE '19 </div><br>
