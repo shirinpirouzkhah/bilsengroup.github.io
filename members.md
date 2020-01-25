@@ -23,8 +23,11 @@ image: /img/logo.png
 - Emre Sülün
 - Ayberk Tecimer
 - Doren Calliku
-- İrem Yurdakul
+- Berfin Küçük
+- Kerem Yılmaz
+- Fatih Sevban Uyanık
 
-## Former Faculty Members
+## Former Members
 
 - [Bedir Tekinerdoğan ](https://www.wur.nl/en/Persons/Bedir-prof.dr.ir.-B-Bedir-Tekinerdogan.htm)
+- İrem Yurdakul
