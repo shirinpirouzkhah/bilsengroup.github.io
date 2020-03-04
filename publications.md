@@ -4,6 +4,13 @@ title: Publications
 image: /img/logo.png
 ---
 <ul>
+    <li>
+        <div style="text-align: justify">
+            <a href="https://dl.acm.org/doi/abs/10.1145/3360497">Understanding the knowledge gaps of software engineers: An empirical analysis based on SWEBOK </a> 
+            <br><i>Vahid Garouisi,  Görkem Giray, Eray Tüzün</i>
+            <br>ACM Transactions on Computing Education, 2019
+        </div>
+    </li>
     <br>
     <li>
         <div style="text-align: justify">
