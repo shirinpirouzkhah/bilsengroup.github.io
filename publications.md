@@ -6,7 +6,7 @@ image: /img/logo.png
 <ul>
     <li>
         <div style="text-align: justify">
-            <a href="">Creation of a Serious Game For Teaching Code Review: An Experience Report </a> 
+            Creation of a Serious Game For Teaching Code Review: An Experience Report 
             <br><i>Barış Ardıç, İrem Yurdakul, Eray Tüzün</i>
             <br>32nd IEEE International Conference on Software Engineering Education & Training (CSEE&T 2020)
         </div>
