@@ -26,6 +26,7 @@ image: /img/logo.png
 - Berfin Küçük
 - Kerem Yılmaz
 - Fatih Sevban Uyanık
+- Kaan Ünlü
 
 ## Former Members
 
