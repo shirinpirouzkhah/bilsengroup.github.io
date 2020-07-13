@@ -16,19 +16,26 @@ image: /img/logo.png
 - Utku Ünal, MSc (METU)
 - Shirin Pirouzkhah, MSc
 - Khushbakht Ali, MSc
-
+- Emre Sülün, MSc
+- Elgun Jabrayilzade, MSc
+- Erdem Tuna, MSc
 
 ## Undergraduate Research Volunteers
 
-- Emre Sülün
-- Ayberk Tecimer
-- Doren Calliku
 - Berfin Küçük
 - Kerem Yılmaz
+- Ayberk Tecimer
+
+# Summer Interns
 - Fatih Sevban Uyanık
-- Kaan Ünlü
+- Büşra Büyükgebiz
+- Ozan Aydın
+- Yusuf Avcı
 
 ## Former Members
 
 - [Bedir Tekinerdoğan ](https://www.wur.nl/en/Persons/Bedir-prof.dr.ir.-B-Bedir-Tekinerdogan.htm)
 - İrem Yurdakul
+- Kaan Ünlü
+- Doren Calliku
+
