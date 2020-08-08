@@ -6,6 +6,14 @@ image: /img/logo.png
 <ul>
     <li>
         <div style="text-align: justify">
+            Identifying Key Developers using Artifact Traceability Graphs
+            <br><i>H.Alperen Çetin, Eray Tüzün</i>
+            <br>16th International Conference on Predictive Modeling in Software Engineering (PROMISE 2020)
+        </div>
+    </li>
+    <br>
+    <li>
+        <div style="text-align: justify">
             Creation of a Serious Game For Teaching Code Review: An Experience Report 
             <br><i>Barış Ardıç, İrem Yurdakul, Eray Tüzün</i>
             <br>32nd IEEE International Conference on Software Engineering Education & Training (CSEE&T 2020)
