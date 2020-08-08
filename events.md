@@ -3,6 +3,7 @@ layout: post
 title: Events & News
 image: /img/logo.png
 ---
+- <div style="text-align: justify">Our submission titled "Identifying Key Developers using Artifact Traceability Graphs" (H.Alperen Çetin and Eray Tüzün) is accepted to the 15th International Conference on Predictive Modeling in Software Engineering (PROMISE 2020).</div><br>
 - <div style="text-align: justify">Our submission titled "Creation of a Serious Game For Teaching Code Review: An Experience Report" (Barış Ardıç, İrem Yurdakul and Eray Tüzün) is accepted to 32nd IEEE International Conference on Software Engineering Education & Training (CSEE&T 2020).</div><br>
 - <div style="text-align: justify">Our paper “Investigating the Validity of Ground Truth in Code Reviewer Recommendation Studies” got the Best Emerging Results and Vision Paper Award in the 13th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM 2019).</div>
 <center><img src="/img/esem_award.png" alt="Best Paper Award" width="340"></center><br>
