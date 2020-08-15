@@ -1,6 +1,8 @@
 - If you are interested in joining our group as a graduate (Masters and Ph.D.)  or undergraduate volunteer student, please send an email or drop by. 
 - Summer interns are also welcome.
-- For Bilkent students please check CS 489 (http://www.cs.bilkent.edu.tr/~eraytuzun/teaching/cs489/CS489_Proposals.pdf) and CS 490 (http://www.cs.bilkent.edu.tr/~eraytuzun/teaching/cs489/CS489_Proposals.pdf) projects. 
+- For Bilkent students please check <a href="http://www.cs.bilkent.edu.tr/~eraytuzun/teaching/cs489/CS489_Proposals.pdf">CS 489</a> 
+and <a href="http://www.cs.bilkent.edu.tr/~eraytuzun/teaching/cs489/CS490_Proposals.pdf">CS 490</a> 
+
 
 	Dr. Eray Tüzün  
 	Bilkent University  
