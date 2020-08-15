@@ -6,7 +6,7 @@ and <a href="http://www.cs.bilkent.edu.tr/~eraytuzun/teaching/cs489/CS490_Propos
 
 	Dr. Eray Tüzün  
 	Bilkent University  
-	Department of Computer Engineering, EA-524  
+	Department of Computer Engineering, EA-501  
 	Bilkent, 06800, ANKARA, Turkey  
 	Phone: +90-312-2903398  
 	E-mail: <eraytuzun@cs.bilkent.edu.tr>  
