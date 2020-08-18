@@ -14,7 +14,7 @@ image: /img/logo.png
     <br>
     <li>
         <div style="text-align: justify">
-            Identifying Key Developers using Artifact Traceability Graphs
+            <a href="https://www.researchgate.net/publication/343712903_Identifying_Key_Developers_using_Artifact_Traceability_Graphs"> Identifying Key Developers using Artifact Traceability Graphs</a> 
             <br><i>H.Alperen Çetin, Eray Tüzün</i>
             <br>16th International Conference on Predictive Modeling in Software Engineering (PROMISE 2020)
         </div>
