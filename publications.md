@@ -6,6 +6,14 @@ image: /img/logo.png
 <ul>
     <li>
         <div style="text-align: justify">
+            RSTrace+: Reviewer Suggestion using Software Artifact Traceability Graphs
+            <br><i>Emre Sülün, Eray Tüzün, Uğur Doğrusöz</i>
+            <br>Information and Software Technology
+        </div>
+    </li>
+    <br>
+    <li>
+        <div style="text-align: justify">
             CRSG: A Serious Game for Teaching Code Review
             <br><i>Kaan Ünlü, Barış Ardıç, Eray Tüzün</i>
             <br>ESEC/FSE 2020 Tool Demonstrations Track
