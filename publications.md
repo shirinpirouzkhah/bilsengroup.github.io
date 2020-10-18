@@ -54,7 +54,7 @@ image: /img/logo.png
     <br>
     <li>
         <div style="text-align: justify">
-            <a href="https://www.researchgate.net/publication/334599783_Reviewer_Recommendation_using_Software_Artifact_Traceability_Graphs">Reviewer Recommendation Using Software Artifact Traceability Graphs </a>
+            <a href="https://dl.acm.org/doi/10.1145/3345629.3345637">Reviewer Recommendation Using Software Artifact Traceability Graphs </a>
             <br><i>Emre Sülün, Eray Tüzün, Uğur Doğrusöz</i>
             <br>15th International Conference on Predictive Models and Data Analytics in Software Engineering - PROMISE '19, 2019
         </div>
@@ -72,7 +72,7 @@ image: /img/logo.png
     <br>
     <li>
         <div style="text-align: justify">
-            <a href="https://dl.acm.org/citation.cfm?id=3342507">
+            <a href="https://dl.acm.org/doi/10.1145/3338906.3342507">
                 Suggesting Reviewers of Software Artifacts Using Traceability Graphs</a>
             <br><i>Emre Sülün</i>
             <br>In Proceedings of The 27th ACM Joint European Software Engineering Conference and Symposium on the
