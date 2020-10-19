@@ -8,7 +8,7 @@ image: /img/logo.png
         <div style="text-align: justify">
             RSTrace+: Reviewer Suggestion using Software Artifact Traceability Graphs
             <br><i>Emre Sülün, Eray Tüzün, Uğur Doğrusöz</i>
-            <br>Information and Software Technology
+            <br>Information and Software Technology, 2020
         </div>
     </li>
     <br>
