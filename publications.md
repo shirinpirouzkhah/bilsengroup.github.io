@@ -16,7 +16,7 @@ image: /img/logo.png
         <div style="text-align: justify">
             CRSG: A Serious Game for Teaching Code Review
             <br><i>Kaan Ünlü, Barış Ardıç, Eray Tüzün</i>
-            <br>ESEC/FSE 2020 Tool Demonstrations Track
+            <br>ESEC/FSE 2020 Tool Demonstrations Track, 2020
         </div>
     </li>
     <br>
@@ -104,7 +104,7 @@ image: /img/logo.png
             <a href="https://www.sciencedirect.com/science/article/pii/S0164121218302565">Adopting Integrated
                 Application Lifecycle Management within a Large-Scale Software Company: An Action Research Approach </a>
             <br><i>Eray Tuzun, Bedir Tekinerdogan, Yagup Macit, Kursat Ince</i>
-            <br>Journal of Systems and Software, 2018 (In Press)
+            <br>Journal of Systems and Software, 2018 
         </div>
     </li>
     <br>
