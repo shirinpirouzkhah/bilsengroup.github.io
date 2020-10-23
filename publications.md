@@ -6,7 +6,7 @@ image: /img/logo.png
 <ul>
     <li>
         <div style="text-align: justify">
-            RSTrace+: Reviewer Suggestion using Software Artifact Traceability Graphs
+            <a href="https://www.sciencedirect.com/science/article/pii/S0950584920300021">RSTrace+: Reviewer Suggestion using Software Artifact Traceability Graphs</a>
             <br><i>Emre Sülün, Eray Tüzün, Uğur Doğrusöz</i>
             <br>Information and Software Technology, 2020
         </div>
@@ -30,7 +30,7 @@ image: /img/logo.png
     <br>
     <li>
         <div style="text-align: justify">
-            Creation of a Serious Game For Teaching Code Review: An Experience Report 
+            <a href="https://ieeexplore.ieee.org/document/9206173">Creation of a Serious Game For Teaching Code Review: An Experience Report</a>
             <br><i>Barış Ardıç, İrem Yurdakul, Eray Tüzün</i>
             <br>32nd IEEE International Conference on Software Engineering Education & Training (CSEE&T 2020)
         </div>
@@ -110,7 +110,7 @@ image: /img/logo.png
     <br>
     <li>
         <div style="text-align: justify">
-            An Auction-Based Serious Game for Bug Tracking
+            <a href="https://ieeexplore.ieee.org/document/8861461">An Auction-Based Serious Game for Bug Tracking</a>
             <br><i>Cagdas Usfekes, Eray Tuzun, Murat Yılmaz, Yagup Macit, Paul Clarke</i>
             <br>IET Software, 2019
         </div>
