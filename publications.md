@@ -14,7 +14,7 @@ image: /img/logo.png
     <br>
     <li>
         <div style="text-align: justify">
-            CRSG: A Serious Game for Teaching Code Review
+            <a href="https://dl.acm.org/doi/10.1145/3368089.3417932">CRSG: A Serious Game for Teaching Code Review</a>
             <br><i>Kaan Ünlü, Barış Ardıç, Eray Tüzün</i>
             <br>ESEC/FSE 2020 Tool Demonstrations Track, 2020
         </div>
