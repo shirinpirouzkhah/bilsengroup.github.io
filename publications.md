@@ -6,7 +6,7 @@ image: /img/logo.png
 <ul>
      <li>
         <div style="text-align: justify">
-            <a href="">RSTrace+: Reviewer Suggestion using Software Artifact Traceability Graphs</a>
+            <a href="">Characterizing Duplicate Bugs: An Empirical Analysis</a>
             <br><i>Berfin Küçük, Eray Tüzün</i>
             <br>The Third International Workshop On Intelligent Bug Fixing, 2021
         </div>
