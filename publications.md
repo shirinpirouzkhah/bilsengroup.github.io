@@ -4,7 +4,14 @@ title: Publications
 image: /img/logo.png
 ---
 <ul>
-    <li>
+     <li>
+        <div style="text-align: justify">
+            <a href="">RSTrace+: Reviewer Suggestion using Software Artifact Traceability Graphs</a>
+            <br><i>Berfin Küçük, Eray Tüzün</i>
+            <br>The Third International Workshop On Intelligent Bug Fixing, 2021
+        </div>
+    </li>
+   <li>
         <div style="text-align: justify">
             <a href="https://www.sciencedirect.com/science/article/pii/S0950584920300021">RSTrace+: Reviewer Suggestion using Software Artifact Traceability Graphs</a>
             <br><i>Emre Sülün, Eray Tüzün, Uğur Doğrusöz</i>
