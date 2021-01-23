@@ -10,8 +10,6 @@ image: /img/logo.png
 
 ## Graduate Students
 
-- Emre Doğan, MSc
-- Hamdi Alperen Çetin, MSc
 - Barış Ardıç, MSc
 - Utku Ünal, MSc (METU)
 - Shirin Pirouzkhah, MSc
@@ -24,7 +22,8 @@ image: /img/logo.png
 
 - Berfin Küçük
 - Kerem Yılmaz
-- Ayberk Tecimer
+- Ata Yurtsever
+- Ayda Yurtoğlu
 
 # Summer Interns
 - Fatih Sevban Uyanık
@@ -38,4 +37,7 @@ image: /img/logo.png
 - İrem Yurdakul
 - Kaan Ünlü
 - Doren Calliku
+- Ayberk Tecimer
+- Emre Doğan, MSc
+- Hamdi Alperen Çetin, MSc
 
