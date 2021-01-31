@@ -24,6 +24,12 @@ image: /img/logo.png
 - Kerem Yılmaz
 - Ata Yurtsever
 - Ayda Yurtoğlu
+- Zeynep Cankara
+
+# Part-time Engineers
+- Emre Açıkgöz
+- Işık Özsoy
+- Mustafa Yaşar
 
 # Summer Interns
 - Fatih Sevban Uyanık
