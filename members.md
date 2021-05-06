@@ -17,7 +17,6 @@ image: /img/logo.png
 - Emre Sülün, MSc
 - Elgun Jabrayilzade, MSc
 - Erdem Tuna, MSc
-- Kerem Yılmaz, MSc (METU)
 
 ## Research Volunteers
 
